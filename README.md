@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thomas Stamatiadis
 - 👀 I’m interested in Anrdoid Developent
 - 🌱 I’m currently learning Kotlin Development
-- 💞️ I’m looking to collaborate on Complany as an Entry Level
 - 📫 How to reach me thomas.stamatiadis@gmail.com
 
 <!---
